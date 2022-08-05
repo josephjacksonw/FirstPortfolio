@@ -4,6 +4,7 @@
 
 #### An online portfolio of myself and my completed projects
 
+https://josephjacksonw.github.io/porfolio/
 
 ## Technologies Used
 
