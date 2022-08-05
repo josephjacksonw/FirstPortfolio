@@ -4,12 +4,13 @@
 
 #### An online portfolio of myself and my completed projects
 
-https://josephjacksonw.github.io/porfolio/
+https://josephjacksonw.github.io/Portfolio/
 
 ## Technologies Used
 
 * HTML
 * CSS
+* Bootstrap
 
 ## Description
 

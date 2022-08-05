@@ -22,9 +22,8 @@
 
 .header {
   text-align: center;
+  margin-top: 4%;
 }
-
-REFORMAT THE A LINKS SO THAT THEY EACH HAVE THEIR OWN P AND I CAN THROW TEXT AFTER THEM 
 
 a {
   display: block;
