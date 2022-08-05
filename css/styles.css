@@ -1,6 +1,27 @@
 .cards {
   float:left;
-  width: 40%;
+  width: 30%;
+  border: solid black;
+  border-width: 10px;
+  background-color: white;
+  margin-left: 10%;
+  margin-right: 5%;
+}
+
+.projects {
+  text-align: center;
+}
+
+.abt {
+  padding: 10px;
+}
+
+.header {
+  text-align: center;
+}
+
+a {
+  display: block;
 }
 
 img {
