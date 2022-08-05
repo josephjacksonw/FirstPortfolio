@@ -6,16 +6,12 @@
   border-width: 10px;
   background-color: rgb(230, 230, 230);
   margin-left: 10%;
-  margin-right: 5%;
+  margin-right: 10%;
+  padding: 15px;
 }
 
 .projects {
   text-align: left;
-  padding: 10px;
-
-}
-
-.abt {
   padding: 10px;
 }
 
@@ -38,12 +34,24 @@ img {
 }
 
 h3 {
+  margin-top: 20%;
   text-align: center;
-  margin-top: 4%;
 }
 
-.row {
-  box-sizing: border-box;
+#cats {
+  margin-left: 38%;
+  padding: 10px;
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%
+  }
+  to {
+    margin-left: 38%;
+  }
 }
 
 body {
