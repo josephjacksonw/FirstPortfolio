@@ -37,6 +37,15 @@ img {
   height: auto;
 }
 
+h3 {
+  text-align: center;
+  margin-top: 4%;
+}
+
+.row {
+  box-sizing: border-box;
+}
+
 body {
   background-color: rgb(101, 176, 199);
 }
